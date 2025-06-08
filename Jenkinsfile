@@ -8,7 +8,7 @@
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-user/your-java-project.git'
+                git 'https://github.com/https://github.com/DeepthiCS-cmd/pipe_test.git'
             }
         }
 
