@@ -2,7 +2,7 @@
     agent any
 
     tools {
-        maven 'Maven_Home 3.9.10'
+        maven 'Maven 3.9.0'
     }
 
     stages {
